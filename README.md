@@ -48,3 +48,5 @@ POST /objetivos
 Endpoints de objetivos.
 GET pode ser usado para visualizar os objetivos cadastrados, apenas com autenticação.
 POST pode ser usado para cadastrar novos objetivos, apenas com autenticação.
+
+### Usuário padrão: usuario@mail.com // senha: Senha123@
