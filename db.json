@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "email": "usuario@mail.com",
+      "password": "$2a$10$JhZiBXYHWqmLkgHQDHNP7uGn1UZ8m.u8X1bhQFS/Q6NdqOmGVr0Jq",
+      "name": "Usuário",
+      "id": 1
+    }
+  ],
+  "entradas": [],
+  "saidas": [],
+  "objetivos": []
+}
