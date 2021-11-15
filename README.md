@@ -22,31 +22,13 @@ POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
 
-### Entradas
+### Extrato
 
-GET /entradas
-POST /entradas
+GET /extrato
+POST /extrato
 
-Endpoints de entradas de valores.
-GET pode ser usado para visualizar as entradas cadastradas, apenas com autenticação.
-POST pode ser usado para cadastrar novas entradas, apenas com autenticação.
+Endpoints de extrato.
+GET pode ser usado para visualizar os lançamentos do extrato, apenas com autenticação.
+POST pode ser usado para cadastrar novos lançamentos, apenas com autenticação.
 
-### Saídas
-
-GET /saidas
-POST /saidas
-
-Endpoints de saídas de valores.
-GET pode ser usado para visualizar as saídas cadastradas, apenas com autenticação.
-POST pode ser usado para cadastrar novas saídas, apenas com autenticação.
-
-### Objetivos
-
-GET /objetivos
-POST /objetivos
-
-Endpoints de objetivos.
-GET pode ser usado para visualizar os objetivos cadastrados, apenas com autenticação.
-POST pode ser usado para cadastrar novos objetivos, apenas com autenticação.
-
-### Usuário padrão: usuario@mail.com // senha: Senha123@
+### Usuário padrão: usuariopositivo@mail.com // senha: Senha123@
