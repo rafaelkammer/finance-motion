@@ -11,7 +11,7 @@
     {
       "nome": "Cinema",
       "valor": 150,
-      "mes": "janeiro",
+      "mes": 1,
       "dia": 3,
       "ano": 2021,
       "categoria": "Diversão",
@@ -25,7 +25,7 @@
     {
       "nome": "Energia",
       "valor": 300,
-      "mes": "janeiro",
+      "mes": 1,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -39,7 +39,7 @@
     {
       "nome": "Água",
       "valor": 100,
-      "mes": "janeiro",
+      "mes": 1,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -53,7 +53,7 @@
     {
       "nome": "Salário",
       "valor": 3000,
-      "mes": "janeiro",
+      "mes": 1,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -67,7 +67,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 1000,
-      "mes": "janeiro",
+      "mes": 1,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -81,7 +81,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 850,
-      "mes": "janeiro",
+      "mes": 1,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -95,7 +95,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "janeiro",
+      "mes": 1,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -109,7 +109,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "janeiro",
+      "mes": 1,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -123,7 +123,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "janeiro",
+      "mes": 1,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
@@ -137,7 +137,7 @@
     {
       "nome": "Energia",
       "valor": 310,
-      "mes": "fevereiro",
+      "mes": 2,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -151,7 +151,7 @@
     {
       "nome": "Água",
       "valor": 90,
-      "mes": "fevereiro",
+      "mes": 2,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -165,7 +165,7 @@
     {
       "nome": "Salário",
       "valor": 3100,
-      "mes": "fevereiro",
+      "mes": 2,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -179,7 +179,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 900,
-      "mes": "fevereiro",
+      "mes": 2,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -193,7 +193,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 1100,
-      "mes": "fevereiro",
+      "mes": 2,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -207,7 +207,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "fevereiro",
+      "mes": 2,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -221,7 +221,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "fevereiro",
+      "mes": 2,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -235,7 +235,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "fevereiro",
+      "mes": 2,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
@@ -249,7 +249,7 @@
     {
       "nome": "Energia",
       "valor": 290,
-      "mes": "março",
+      "mes": 3,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -263,7 +263,7 @@
     {
       "nome": "Água",
       "valor": 110,
-      "mes": "março",
+      "mes": 3,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -277,7 +277,7 @@
     {
       "nome": "Salário",
       "valor": 2950,
-      "mes": "março",
+      "mes": 3,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -291,7 +291,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 950,
-      "mes": "março",
+      "mes": 3,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -305,7 +305,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 1000,
-      "mes": "março",
+      "mes": 3,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -319,7 +319,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "março",
+      "mes": 3,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -333,7 +333,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "março",
+      "mes": 3,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -347,7 +347,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "março",
+      "mes": 3,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
@@ -361,7 +361,7 @@
     {
       "nome": "Energia",
       "valor": 300,
-      "mes": "abril",
+      "mes": 4,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -375,7 +375,7 @@
     {
       "nome": "Água",
       "valor": 100,
-      "mes": "abril",
+      "mes": 4,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -389,7 +389,7 @@
     {
       "nome": "Salário",
       "valor": 3000,
-      "mes": "abril",
+      "mes": 4,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -403,7 +403,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 1000,
-      "mes": "abril",
+      "mes": 4,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -417,7 +417,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 650,
-      "mes": "abril",
+      "mes": 4,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -431,7 +431,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "abril",
+      "mes": 4,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -445,7 +445,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "abril",
+      "mes": 4,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -459,7 +459,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "abril",
+      "mes": 4,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
@@ -473,7 +473,7 @@
     {
       "nome": "Energia",
       "valor": 300,
-      "mes": "maio",
+      "mes": 5,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -487,7 +487,7 @@
     {
       "nome": "Água",
       "valor": 100,
-      "mes": "maio",
+      "mes": 5,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -501,7 +501,7 @@
     {
       "nome": "Salário",
       "valor": 3000,
-      "mes": "maio",
+      "mes": 5,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -515,7 +515,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 1000,
-      "mes": "maio",
+      "mes": 5,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -529,7 +529,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 850,
-      "mes": "maio",
+      "mes": 5,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -543,7 +543,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "maio",
+      "mes": 5,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -557,7 +557,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "maio",
+      "mes": 5,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -571,7 +571,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "maio",
+      "mes": 5,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
@@ -585,7 +585,7 @@
     {
       "nome": "Energia",
       "valor": 310,
-      "mes": "junho",
+      "mes": 6,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -599,7 +599,7 @@
     {
       "nome": "Água",
       "valor": 90,
-      "mes": "junho",
+      "mes": 6,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -613,7 +613,7 @@
     {
       "nome": "Salário",
       "valor": 3100,
-      "mes": "junho",
+      "mes": 6,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -627,7 +627,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 900,
-      "mes": "junho",
+      "mes": 6,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -641,7 +641,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 1100,
-      "mes": "junho",
+      "mes": 6,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -655,7 +655,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "junho",
+      "mes": 6,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -669,7 +669,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "junho",
+      "mes": 6,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -683,7 +683,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "junho",
+      "mes": 6,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
@@ -697,7 +697,7 @@
     {
       "nome": "Energia",
       "valor": 290,
-      "mes": "julho",
+      "mes": 7,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -711,7 +711,7 @@
     {
       "nome": "Água",
       "valor": 110,
-      "mes": "julho",
+      "mes": 7,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -725,7 +725,7 @@
     {
       "nome": "Salário",
       "valor": 2950,
-      "mes": "julho",
+      "mes": 7,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -739,7 +739,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 950,
-      "mes": "julho",
+      "mes": 7,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -753,7 +753,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 1000,
-      "mes": "julho",
+      "mes": 7,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -767,7 +767,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "julho",
+      "mes": 7,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -781,7 +781,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "julho",
+      "mes": 7,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -795,7 +795,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "julho",
+      "mes": 7,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
@@ -809,7 +809,7 @@
     {
       "nome": "Energia",
       "valor": 310,
-      "mes": "agosto",
+      "mes": 8,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -823,7 +823,7 @@
     {
       "nome": "Água",
       "valor": 90,
-      "mes": "agosto",
+      "mes": 8,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -837,7 +837,7 @@
     {
       "nome": "Salário",
       "valor": 3100,
-      "mes": "agosto",
+      "mes": 8,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -851,7 +851,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 900,
-      "mes": "agosto",
+      "mes": 8,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -865,7 +865,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 1100,
-      "mes": "agosto",
+      "mes": 8,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -879,7 +879,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "agosto",
+      "mes": 8,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -893,7 +893,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "agosto",
+      "mes": 8,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -907,7 +907,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "agosto",
+      "mes": 8,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
@@ -921,7 +921,7 @@
     {
       "nome": "Energia",
       "valor": 300,
-      "mes": "setembro",
+      "mes": 9,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -935,7 +935,7 @@
     {
       "nome": "Água",
       "valor": 100,
-      "mes": "setembro",
+      "mes": 9,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -949,7 +949,7 @@
     {
       "nome": "Salário",
       "valor": 3000,
-      "mes": "setembro",
+      "mes": 9,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -963,7 +963,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 1000,
-      "mes": "setembro",
+      "mes": 9,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -977,7 +977,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 650,
-      "mes": "setembro",
+      "mes": 9,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -991,7 +991,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "setembro",
+      "mes": 9,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -1005,7 +1005,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "setembro",
+      "mes": 9,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -1019,7 +1019,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "setembro",
+      "mes": 9,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
@@ -1033,7 +1033,7 @@
     {
       "nome": "Energia",
       "valor": 300,
-      "mes": "outubro",
+      "mes": 10,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -1047,7 +1047,7 @@
     {
       "nome": "Água",
       "valor": 100,
-      "mes": "outubro",
+      "mes": 10,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -1061,7 +1061,7 @@
     {
       "nome": "Salário",
       "valor": 3000,
-      "mes": "outubro",
+      "mes": 10,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -1075,7 +1075,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 1000,
-      "mes": "outubro",
+      "mes": 10,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -1089,7 +1089,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 850,
-      "mes": "outubro",
+      "mes": 10,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -1103,7 +1103,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "outubro",
+      "mes": 10,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -1117,7 +1117,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "outubro",
+      "mes": 10,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -1131,7 +1131,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "outubro",
+      "mes": 10,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
@@ -1145,7 +1145,7 @@
     {
       "nome": "Energia",
       "valor": 310,
-      "mes": "novembro",
+      "mes": 11,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -1159,7 +1159,7 @@
     {
       "nome": "Água",
       "valor": 90,
-      "mes": "novembro",
+      "mes": 11,
       "dia": 5,
       "ano": 2021,
       "categoria": "Casa",
@@ -1173,7 +1173,7 @@
     {
       "nome": "Salário",
       "valor": 3100,
-      "mes": "novembro",
+      "mes": 11,
       "dia": 6,
       "ano": 2021,
       "categoria": "Salário",
@@ -1187,7 +1187,7 @@
     {
       "nome": "Freelance mensal",
       "valor": 900,
-      "mes": "novembro",
+      "mes": 11,
       "dia": 7,
       "ano": 2021,
       "categoria": "Freelancer",
@@ -1201,7 +1201,7 @@
     {
       "nome": "Cartão de crédito",
       "valor": 1100,
-      "mes": "novembro",
+      "mes": 11,
       "dia": 9,
       "ano": 2021,
       "categoria": "Eventuais",
@@ -1215,7 +1215,7 @@
     {
       "nome": "Internet",
       "valor": 150,
-      "mes": "novembro",
+      "mes": 11,
       "dia": 10,
       "ano": 2021,
       "categoria": "Casa",
@@ -1229,7 +1229,7 @@
     {
       "nome": "Netflix",
       "valor": 29.9,
-      "mes": "novembro",
+      "mes": 11,
       "dia": 11,
       "ano": 2021,
       "categoria": "Diversão",
@@ -1243,7 +1243,7 @@
     {
       "nome": "Viagem para Orlando",
       "valor": 500,
-      "mes": "novembro",
+      "mes": 11,
       "dia": 15,
       "ano": 2021,
       "categoria": "Viagens",
