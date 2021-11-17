@@ -17,6 +17,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 1
@@ -30,6 +31,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 2
@@ -43,6 +45,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 3
@@ -56,6 +59,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 4
@@ -69,6 +73,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 5
@@ -82,6 +87,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 6
@@ -95,6 +101,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 7
@@ -108,6 +115,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 8
@@ -121,6 +129,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 0,
       "tipo": "objetivo",
       "userId": 1,
       "id": 9
@@ -134,6 +143,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 10
@@ -147,6 +157,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 11
@@ -160,6 +171,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 12
@@ -173,6 +185,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 13
@@ -186,6 +199,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 14
@@ -199,6 +213,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 15
@@ -212,6 +227,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 16
@@ -225,6 +241,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 1,
       "tipo": "objetivo",
       "userId": 1,
       "id": 17
@@ -238,6 +255,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 18
@@ -251,6 +269,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 19
@@ -264,6 +283,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 20
@@ -277,6 +297,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 21
@@ -290,6 +311,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 22
@@ -303,6 +325,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 23
@@ -316,6 +339,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 24
@@ -329,6 +353,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 2,
       "tipo": "objetivo",
       "userId": 1,
       "id": 25
@@ -342,6 +367,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 26
@@ -355,6 +381,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 27
@@ -368,6 +395,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 28
@@ -381,6 +409,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 29
@@ -394,6 +423,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 30
@@ -407,6 +437,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 31
@@ -420,6 +451,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 32
@@ -433,6 +465,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 3,
       "tipo": "objetivo",
       "userId": 1,
       "id": 33
@@ -446,6 +479,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 34
@@ -459,6 +493,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 35
@@ -472,6 +507,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 36
@@ -485,6 +521,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 37
@@ -498,6 +535,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 38
@@ -511,6 +549,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 39
@@ -524,6 +563,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 40
@@ -537,6 +577,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 4,
       "tipo": "objetivo",
       "userId": 1,
       "id": 41
@@ -550,6 +591,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 42
@@ -563,6 +605,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 43
@@ -576,6 +619,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 44
@@ -589,6 +633,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 45
@@ -602,6 +647,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 46
@@ -615,6 +661,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 47
@@ -628,6 +675,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 48
@@ -641,6 +689,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 5,
       "tipo": "objetivo",
       "userId": 1,
       "id": 49
@@ -654,6 +703,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 50
@@ -667,6 +717,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 51
@@ -680,6 +731,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 52
@@ -693,6 +745,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 53
@@ -706,6 +759,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 54
@@ -719,6 +773,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 55
@@ -732,6 +787,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 56
@@ -745,6 +801,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 6,
       "tipo": "objetivo",
       "userId": 1,
       "id": 57
@@ -758,6 +815,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 58
@@ -771,6 +829,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 59
@@ -784,6 +843,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 60
@@ -797,6 +857,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 61
@@ -810,6 +871,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 62
@@ -823,6 +885,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 63
@@ -836,6 +899,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 64
@@ -849,6 +913,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 7,
       "tipo": "objetivo",
       "userId": 1,
       "id": 65
@@ -862,6 +927,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 66
@@ -875,6 +941,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 67
@@ -888,6 +955,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 68
@@ -901,6 +969,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 69
@@ -914,6 +983,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 70
@@ -927,6 +997,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 71
@@ -940,6 +1011,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 72
@@ -953,6 +1025,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 8,
       "tipo": "objetivo",
       "userId": 1,
       "id": 73
@@ -966,6 +1039,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 74
@@ -979,6 +1053,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 75
@@ -992,6 +1067,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 76
@@ -1005,6 +1081,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 77
@@ -1018,6 +1095,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 78
@@ -1031,6 +1109,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 79
@@ -1044,6 +1123,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 80
@@ -1057,6 +1137,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 9,
       "tipo": "objetivo",
       "userId": 1,
       "id": 81
@@ -1070,6 +1151,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 82
@@ -1083,6 +1165,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 83
@@ -1096,6 +1179,7 @@
       "categoria": "Salário",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 84
@@ -1109,6 +1193,7 @@
       "categoria": "Freelancer",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "entrada",
       "userId": 1,
       "id": 85
@@ -1122,6 +1207,7 @@
       "categoria": "Eventuais",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 86
@@ -1135,6 +1221,7 @@
       "categoria": "Casa",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 87
@@ -1148,6 +1235,7 @@
       "categoria": "Diversão",
       "frequencia": "Mensal",
       "prazo": 1,
+      "progresso": 0,
       "tipo": "saída",
       "userId": 1,
       "id": 88
@@ -1161,6 +1249,7 @@
       "categoria": "Viagens",
       "frequencia": "Mensal",
       "prazo": 24,
+      "progresso": 10,
       "tipo": "objetivo",
       "userId": 1,
       "id": 89
