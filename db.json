@@ -121,20 +121,6 @@
       "id": 8
     },
     {
-      "nome": "Viagem para Orlando",
-      "valor": 500,
-      "mes": 1,
-      "dia": 15,
-      "ano": 2021,
-      "categoria": "Viagens",
-      "frequencia": "Mensal",
-      "prazo": 24,
-      "progresso": 0,
-      "tipo": "objetivo",
-      "userId": 1,
-      "id": 9
-    },
-    {
       "nome": "Energia",
       "valor": 310,
       "mes": 2,
@@ -231,20 +217,6 @@
       "tipo": "saída",
       "userId": 1,
       "id": 16
-    },
-    {
-      "nome": "Viagem para Orlando",
-      "valor": 500,
-      "mes": 2,
-      "dia": 15,
-      "ano": 2021,
-      "categoria": "Viagens",
-      "frequencia": "Mensal",
-      "prazo": 24,
-      "progresso": 1,
-      "tipo": "objetivo",
-      "userId": 1,
-      "id": 17
     },
     {
       "nome": "Energia",
@@ -345,20 +317,6 @@
       "id": 24
     },
     {
-      "nome": "Viagem para Orlando",
-      "valor": 500,
-      "mes": 3,
-      "dia": 15,
-      "ano": 2021,
-      "categoria": "Viagens",
-      "frequencia": "Mensal",
-      "prazo": 24,
-      "progresso": 2,
-      "tipo": "objetivo",
-      "userId": 1,
-      "id": 25
-    },
-    {
       "nome": "Energia",
       "valor": 300,
       "mes": 4,
@@ -455,20 +413,6 @@
       "tipo": "saída",
       "userId": 1,
       "id": 32
-    },
-    {
-      "nome": "Viagem para Orlando",
-      "valor": 500,
-      "mes": 4,
-      "dia": 15,
-      "ano": 2021,
-      "categoria": "Viagens",
-      "frequencia": "Mensal",
-      "prazo": 24,
-      "progresso": 3,
-      "tipo": "objetivo",
-      "userId": 1,
-      "id": 33
     },
     {
       "nome": "Energia",
@@ -569,20 +513,6 @@
       "id": 40
     },
     {
-      "nome": "Viagem para Orlando",
-      "valor": 500,
-      "mes": 5,
-      "dia": 15,
-      "ano": 2021,
-      "categoria": "Viagens",
-      "frequencia": "Mensal",
-      "prazo": 24,
-      "progresso": 4,
-      "tipo": "objetivo",
-      "userId": 1,
-      "id": 41
-    },
-    {
       "nome": "Energia",
       "valor": 310,
       "mes": 6,
@@ -679,20 +609,6 @@
       "tipo": "saída",
       "userId": 1,
       "id": 48
-    },
-    {
-      "nome": "Viagem para Orlando",
-      "valor": 500,
-      "mes": 6,
-      "dia": 15,
-      "ano": 2021,
-      "categoria": "Viagens",
-      "frequencia": "Mensal",
-      "prazo": 24,
-      "progresso": 5,
-      "tipo": "objetivo",
-      "userId": 1,
-      "id": 49
     },
     {
       "nome": "Energia",
@@ -793,20 +709,6 @@
       "id": 56
     },
     {
-      "nome": "Viagem para Orlando",
-      "valor": 500,
-      "mes": 7,
-      "dia": 15,
-      "ano": 2021,
-      "categoria": "Viagens",
-      "frequencia": "Mensal",
-      "prazo": 24,
-      "progresso": 6,
-      "tipo": "objetivo",
-      "userId": 1,
-      "id": 57
-    },
-    {
       "nome": "Energia",
       "valor": 310,
       "mes": 8,
@@ -903,20 +805,6 @@
       "tipo": "saída",
       "userId": 1,
       "id": 64
-    },
-    {
-      "nome": "Viagem para Orlando",
-      "valor": 500,
-      "mes": 8,
-      "dia": 15,
-      "ano": 2021,
-      "categoria": "Viagens",
-      "frequencia": "Mensal",
-      "prazo": 24,
-      "progresso": 7,
-      "tipo": "objetivo",
-      "userId": 1,
-      "id": 65
     },
     {
       "nome": "Energia",
@@ -1017,20 +905,6 @@
       "id": 72
     },
     {
-      "nome": "Viagem para Orlando",
-      "valor": 500,
-      "mes": 9,
-      "dia": 15,
-      "ano": 2021,
-      "categoria": "Viagens",
-      "frequencia": "Mensal",
-      "prazo": 24,
-      "progresso": 8,
-      "tipo": "objetivo",
-      "userId": 1,
-      "id": 73
-    },
-    {
       "nome": "Energia",
       "valor": 300,
       "mes": 10,
@@ -1127,20 +1001,6 @@
       "tipo": "saída",
       "userId": 1,
       "id": 80
-    },
-    {
-      "nome": "Viagem para Orlando",
-      "valor": 500,
-      "mes": 10,
-      "dia": 15,
-      "ano": 2021,
-      "categoria": "Viagens",
-      "frequencia": "Mensal",
-      "prazo": 24,
-      "progresso": 9,
-      "tipo": "objetivo",
-      "userId": 1,
-      "id": 81
     },
     {
       "nome": "Energia",
